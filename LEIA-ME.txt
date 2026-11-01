@@ -1,0 +1,26 @@
+PACOTE DE PECAS DE XADREZ - TEMA GENGAR
+========================================
+
+Arquivos:
+wK.svg wQ.svg wR.svg wB.svg wN.svg wP.svg = conjunto claro
+bK.svg bQ.svg bR.svg bB.svg bN.svg bP.svg = conjunto escuro
+
+No campo "Extensão", use:
+svg
+
+IMPORTANTE SOBRE A URL BASE:
+O campo "URL base das imagens" precisa apontar para uma pasta pública que contenha
+estes arquivos. Ele não pode apontar diretamente para o ZIP.
+
+Exemplo de URL base (depois de hospedar os arquivos):
+https://SEU-USUARIO.github.io/gengar-chess/
+
+O personalizador deve acrescentar os nomes no padrão:
+wK.svg, wQ.svg, wR.svg, wB.svg, wN.svg, wP.svg,
+bK.svg, bQ.svg, bR.svg, bB.svg, bN.svg, bP.svg
+
+Se o seu site usar nomes minúsculos (wk.svg, wq.svg...), renomeie os arquivos
+ou ajuste o padrão no código do personalizador.
+
+As peças são SVGs vetoriais com fundo transparente e desenhos originais
+inspirados no visual roxo e fantasmagórico do Gengar.
